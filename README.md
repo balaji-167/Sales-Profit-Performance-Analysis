@@ -48,4 +48,4 @@ The dashboard empowers stakeholders to move beyond "what happened" to "why it ha
 ---
 
 ## 👨‍💻 About the Author
-**[Your Name]**
+**Balaji Reddy**
