@@ -4,6 +4,10 @@
 
 ---
 
+![Sales & Profit Analysis](https://github.com/user-attachments/assets/8043422e-a2da-4276-8534-d8d50f80f213)
+
+---
+
 ## 📝 Executive Summary
 This project addresses a critical business need: **identifying the drivers of profitability and sales growth in a competitive retail environment.** Using a dataset of 2022 transactions, I developed an interactive Tableau dashboard that provides executive-level KPIs and granular subcategory analysis. 
 
